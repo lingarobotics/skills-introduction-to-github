@@ -36,6 +36,14 @@ In this course, you will:
 3. Open a pull request
 4. Merge your pull request
 
+### 📖 How This Tutorial Works
+
+This is an **interactive tutorial** that uses GitHub Actions automation:
+- After you complete each step, wait ~20 seconds and refresh the page
+- The README will automatically update with the next step's instructions
+- Follow the instructions carefully (branch names and file names must match exactly)
+- If you get stuck, check the [CONTRIBUTING.md](./CONTRIBUTING.md) file for detailed guidance
+
 ### How to start this course
 
 <!-- For start course, run in JavaScript:
