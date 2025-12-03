@@ -42,18 +42,24 @@ The file `.github/steps/-step.txt` contains the current step number:
 
 ## 🔧 Troubleshooting
 
-### The README Didn't Update
+Having issues? Check the **[TROUBLESHOOTING.md](./TROUBLESHOOTING.md)** file for detailed solutions to common problems!
+
+### Quick Fixes
+
+**The README Didn't Update**
 - Wait a full 20-30 seconds before refreshing
 - Check the "Actions" tab to see if the workflow is still running
 - Make sure you followed the instructions exactly (branch names, file names matter!)
 
-### I Made a Mistake
+**I Made a Mistake**
 - Don't worry! You can delete your repository and start fresh
 - Or, you can manually edit the `.github/steps/-step.txt` file to go back to a previous step
 
-### GitHub Actions Aren't Running
+**GitHub Actions Aren't Running**
 - Make sure GitHub Actions are enabled in your repository settings
 - Check that you're not using a private repository without Actions minutes
+
+For more detailed troubleshooting, see **[TROUBLESHOOTING.md](./TROUBLESHOOTING.md)**
 
 ## 💡 Tips for Success
 

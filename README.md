@@ -75,6 +75,8 @@ This is an **interactive tutorial** that uses GitHub Actions automation:
 
 ---
 
+📖 **Need Help?** Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed instructions or [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) for common issues
+
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
